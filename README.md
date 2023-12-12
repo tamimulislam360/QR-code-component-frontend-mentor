@@ -16,11 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![screenshot](./images/screenshot.png)
+![Alt text](image.png)
 
 
 ### Links
 
-- Solution URL: [Repo (Source code) URL](https://github.com/tamimulislam360/QR-code-component-frontend-mentor)
+- Repo URL: [Repo (Source code) URL](https://github.com/tamimulislam360/QR-code-component-frontend-mentor)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/html-css-used-kVWEBh3344)
 - Live Site URL: [Live site URL](https://qrcode-component-tamim.netlify.app/)
 
 ## My process
